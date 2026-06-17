@@ -12,7 +12,7 @@
 | experiment/broken-idea | тестовая идея | удалена без merge |
 
 ## Pull Request
-Ссылка на PR: вставить ссылку.
+Ссылка на PR: https://github.com/IvanZarutsky/DZ_Git_Branching_Homework/pulls
 
 ## Коммиты
 Кратко перечислить 8+ основных коммитов.
