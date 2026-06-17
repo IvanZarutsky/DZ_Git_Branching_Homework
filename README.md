@@ -1,7 +1,7 @@
 # Git Branching Homework
 
 ## Описание проекта
-Кратко: что делает проект и зачем он создан.
+Изучение git и github.
 
 ## Использованные ветки
 | Ветка | Что делал | Как попала в main |
@@ -12,7 +12,7 @@
 | experiment/broken-idea | тестовая идея | удалена без merge |
 
 ## Pull Request
-Ссылка на PR: https://github.com/IvanZarutsky/DZ_Git_Branching_Homework/pulls
+Ссылка на PR: вставить ссылку.
 
 ## Коммиты
 Кратко перечислить 8+ основных коммитов.
